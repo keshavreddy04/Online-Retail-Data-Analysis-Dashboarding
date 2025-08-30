@@ -47,3 +47,9 @@ Experience in designing user-friendly interactive dashboards.
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+
+## 👨‍💻 Author
+
+V Om Keshava Reddy
+📌 B.Tech CSE (AI & ML), SRM University
+🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| [GitHub](https://github.com/keshavreddy04)| [LeetCode](https://leetcode.com/u/keshav_30/)
